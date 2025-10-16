@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+  background-color: #a07a7a;
+  padding: 20px;
+    text-align: center;
+}
+
+.formulario {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+
+
+}
+
+.email1{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
+.edad1{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.pais1{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.boton{
+    background-color: rgb(22, 21, 11);
+    font-weight: bold;
+    border-radius: 23px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
